@@ -94,4 +94,4 @@ http-request ^https?://boxjs.net script-path=https://raw.githubusercontent.com/c
 http-response ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js, tag=微信公众号去广告
 
 [MITM]
-hostname = api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, ios.prod.ftl.netflix.com, api.m.jd.com, trade-acs.m.taobao.com,app.bilibili.com,api.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, *.kuwo.cn, vip1.kuwo.cn, weixin110.qq.com
+hostname = api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, ios.prod.ftl.netflix.com, api.m.jd.com, trade-acs.m.taobao.com,app.bilibili.com,api.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, *.kuwo.cn, vip1.kuwo.cn, weixin.qq.com, weixin110.qq.com
