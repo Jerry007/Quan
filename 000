@@ -1,0 +1,26 @@
+# Proxy server snippets contain a few proxy informations.
+# Snippets of configuration will be saved in the "Profiles" subdirectory of "Quantumult X".
+# You can link the snippets to the main configuration profile.
+# You can check the sample snippets at https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.txt
+
+
+
+vmess=WTbn.liyun.edu.pl:8743, method=aes-128-gcm, password=1715bdd6-1ef1-365d-94eb-b2021d9663dd, obfs=wss, obfs-host=wttit.okita.ml, obfs-uri=/7g9tr, tls-verification=false, fast-open=false, udp-relay=false, tag=201低价机场看频道@freenodeshops
+
+vmess=gonyiazhk22.xiaobaiyun.me:800, method=aes-128-gcm, password=c9788d42-d962-3fea-9914-f05cea720b76, obfs=ws, obfs-host=els.xiaobaiyun.me, obfs-uri=/hls, fast-open=false, udp-relay=false, tag=202俄罗斯-电报群@baipiao_1234
+
+vmess=40.83.122.237:10088, method=aes-128-gcm, password=fff643b2-f89b-41b6-a166-7ed99885273a, obfs=wss, obfs-host=us6.xxl123.fun, obfs-uri=/index, tls-verification=false, fast-open=false, udp-relay=false, tag=203美国-电报频道@freenodes
+
+vmess=40.83.122.237:10001, method=aes-128-gcm, password=1adb3a6a-b341-4ba4-9fcf-2e8ea34e657f, obfs=wss, obfs-host=hk2.xxl123.fun, obfs-uri=/index, tls-verification=false, fast-open=false, udp-relay=false, tag=204香港-TG:@freenodes
+
+vmess=free-sg01.starlink.cyou:15077, method=aes-128-gcm, password=5abbcf6e-9cf1-461a-a1a6-bf01144ee29e, obfs=ws, obfs-uri=/, fast-open=false, udp-relay=false, tag=205新加坡-@freenodes
+
+vmess=40.83.122.237:10004, method=aes-128-gcm, password=8e496961-8ee2-434c-9f47-5340d53ed7be, obfs=wss, obfs-host=us4.xxl123.fun, obfs-uri=/index, tls-verification=false, fast-open=false, udp-relay=false, tag=206美国-@freenodes
+
+vmess=gonyiazhk22.xiaobaiyun.me:832, method=aes-128-gcm, password=c9788d42-d962-3fea-9914-f05cea720b76, obfs=ws, obfs-host=mgalsj.xiaobaiyun.me, obfs-uri=/hls, fast-open=false, udp-relay=false, tag=207美国-@freenodes
+
+vmess=gonyiazhk22.xiaobaiyun.me:809, method=aes-128-gcm, password=a70f7a2a-ca14-33c1-8753-f9fa9ffb3662, obfs=ws, obfs-host=elsxxbly.xiaobaiyun.me, obfs-uri=/hls, fast-open=false, udp-relay=false, tag=208俄罗斯-@freenodes
+
+vmess=40.83.122.237:10003, method=aes-128-gcm, password=3aaa9b8f-4ed6-4500-8875-95d85af6b02d, obfs=wss, obfs-host=kr1.xxl123.fun, obfs-uri=/index, tls-verification=false, fast-open=false, udp-relay=false, tag=209韩国-@freenodes
+
+vmess=gonyiazhk22.xiaobaiyun.me:833, method=aes-128-gcm, password=a70f7a2a-ca14-33c1-8753-f9fa9ffb3662, obfs=ws, obfs-host=XINGAWSMGELG2.xiaobaiyun.me, obfs-uri=/hls, fast-open=false, udp-relay=false, tag=210美国-@freenodes
