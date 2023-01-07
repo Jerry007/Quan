@@ -7,7 +7,7 @@
 
 #let obj = JSON.parse($response.body);
 
-/*
+
 let body = $response.body;
 var obj = JSON.parse(body);
 obj ={
@@ -27,9 +27,9 @@ obj ={
     "status" : "active"
   }
 }
-$done({body: JSON.stringify(obj)});  */
+$done({body: JSON.stringify(obj)});  
 
-var body = $response.body.replace(/"ispremiumexpired" : false/g, '"ispremiumexpired" : true').replace(/"ispremium" : false/g, '"ispremium" : true').replace(/"__v" : 0/g, '"__v" : 999');
+#var body = $response.body.replace(/"ispremiumexpired" : false/g, '"ispremiumexpired" : true').replace(/"ispremium" : false/g, '"ispremium" : true').replace(/"__v" : 0/g, '"__v" : 999');
 $done({ body });
 
 
